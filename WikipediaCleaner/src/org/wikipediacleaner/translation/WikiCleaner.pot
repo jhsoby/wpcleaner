@@ -3277,7 +3277,7 @@ msgstr ""
 
 #: org/wikipediacleaner/gui/swing/bot/CWCheckWhiteListsWorker.java:106
 #, java-format
-msgid "The error hasn''t been detected in page {0}."
+msgid "The error hasn't been detected in page {0}."
 msgstr ""
 
 #: org/wikipediacleaner/gui/swing/bot/CWCheckWhiteListsWorker.java:111
@@ -3469,13 +3469,13 @@ msgstr ""
 #: org/wikipediacleaner/gui/swing/checkwiki/CheckWikiContentPanel.java:420
 #, java-format
 msgid ""
-"The error n°{0} hasn''t been found on the page {1}.\n"
+"The error n°{0} hasn't been found on the page {1}.\n"
 "Do you want to mark it as fixed?"
 msgstr ""
 
 #: org/wikipediacleaner/gui/swing/checkwiki/CheckWikiContentPanel.java:430
 #, java-format
-msgid "The error n°{0} hasn''t been detected in page {1}, but CheckWiki still reports it."
+msgid "The error n°{0} hasn't been detected in page {1}, but CheckWiki still reports it."
 msgstr ""
 
 #: org/wikipediacleaner/gui/swing/checkwiki/CheckWikiContentPanel.java:439
